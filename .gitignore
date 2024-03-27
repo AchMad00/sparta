@@ -1,4 +1,4 @@
-.gitigore
+.gitignore
 .env
 \venv
 meta.py
