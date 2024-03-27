@@ -1,0 +1,4 @@
+.gitigore
+.env
+\venv
+meta.py
